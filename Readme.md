@@ -27,4 +27,4 @@ You can check the [AtomOS teckpack](https://hackmd.io/REBdz_zXT9Koqcel-LbBJg)
 
 ## Buy a license
 
-To buy a licnese go [here](https://elemento.typeform.com/to/rUaZRm2O)
+To buy a license go [here](https://elemento.typeform.com/to/rUaZRm2O)
